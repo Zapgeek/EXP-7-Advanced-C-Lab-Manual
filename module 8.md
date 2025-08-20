@@ -1,7 +1,7 @@
 ## EXP NO 6 : C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
 ```
-Developed by: Nikhil H
-Reg no.  212224040219
+Developed by: Pranav Bhargav M
+Reg no.  212224040239
 ```
 ## Aim:
 To write a C program print the lowercase English word corresponding to the number
