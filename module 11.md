@@ -1,5 +1,9 @@
 EXP NO:21 C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
 
+```
+Developed by: Pranav Bhargav M
+Reg no.  212224040239
+```
 Aim:
 
 To write a C program to create a function to find the greatest number
