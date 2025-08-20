@@ -1,7 +1,7 @@
 ## EXP NO 26 : C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 ```
-Developed by: Nikhil H
-Reg no.  212224040219
+Developed by: Pranav Bhargav M
+Reg no.  212224040239
 ```
 ## Aim:
 To write a C program to display stack elements using linked list.
